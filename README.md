@@ -66,3 +66,5 @@ Uses the `conservation-spectral-python` SDK:
 2. **conservation_monitor** module — subscribes to `vehicle_attitude`, `vehicle_local_position`, `vehicle_angular_velocity`
 3. **Commander** integration — trigger failsafe on conservation drop
 4. **Logger** integration — record conservation metrics in ULog flight logs
+
+Part of the [SuperInstance OpenConstruct](https://github.com/SuperInstance/OpenConstruct) ecosystem.
